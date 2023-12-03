@@ -1,0 +1,5 @@
+docker/graphs/bike-regular/landmarks_bike_ors_recommended_with_turn_costs
+docker/south-korea-latest-non-military.osm.pbf
+docker/graphs/bike-regular/landmarks_bike_ors_shortest_with_turn_costs
+docker/logs/**
+docker/graphs/**
